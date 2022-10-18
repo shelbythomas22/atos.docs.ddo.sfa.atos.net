@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+Sitemap: https://atos.docs.ddo.sfa.atos.net/sitemap.xml
